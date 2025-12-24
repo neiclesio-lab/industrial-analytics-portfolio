@@ -1,5 +1,4 @@
 # industrial-analytics-portfolio
-# Industrial Analytics Portfolio (Steel &amp; Heavy Industry)
 # Industrial Analytics Portfolio (Steel & Heavy Industry)
 
 Portfolio focused on **industrial analytics / applied AI** and **OpEx audits + data roadmaps**, built from real-world steelmaking experience (data sanitized/simulated).
