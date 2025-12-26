@@ -1,0 +1,24 @@
+industrial-analytics-portfolio/
+  README.md
+  case-studies/
+    case-01-eaf-energy.md
+    case-02-electrode.md
+    case-03-availability.md
+  projects/
+    01-kpi-dashboard/
+      README.md
+      data/
+      outputs/
+    02-anomaly-detection/
+      README.md
+      notebook.ipynb
+      data/
+      outputs/
+    03-opex-audit-scoring/
+      README.md
+      data/
+      outputs/
+  assets/
+    images/
+  .gitignore
+  requirements.txt
